@@ -7,5 +7,4 @@ Stages of the project:
 2. EDA
 
 3. To be continued
-.dadfsfa
 
